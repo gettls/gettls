@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gettls&show_icons=true&theme=radical)](https://github.com/gettls/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gettls)](https://solved.ac/gettls)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gettls)](https://solved.ac/gettls)
