@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gettls&show_icons=true&theme=radical)](https://github.com/gettls/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gettls)](https://solved.ac/gettls)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gettls&show_icons=true&theme=radical)](https://github.com/gettls/github-readme-stats)
