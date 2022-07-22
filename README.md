@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hi there
 
-<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gettls"> </p>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gettls"> </p>
